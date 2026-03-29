@@ -1,14 +1,30 @@
-<h1 align="center">Hi, I'm Muhammad Moin 👋</h1>
-<h3 align="center">Senior Software Engineer · Karachi, Pakistan</h3>
+<div align="center">
 
-<p align="center">
-  I build scalable full-stack applications with real-time capabilities, REST APIs, and modern DevOps practices.<br/>
-  Currently building at <strong>HexCOD</strong>.
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Moin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Karachi%2C%20Pakistan&descAlignY=55&descSize=18" width="100%"/>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Moin&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Muhammad-Moin?label=Followers&style=social" alt="followers" />
 </p>
+
+<p align="center">
+  <em>I build scalable full-stack applications with real-time capabilities, AI integrations, and modern DevOps practices.</em><br/>
+  <em>Currently building at <strong>HexCOD</strong> · Powered by <strong>Claude AI</strong> 🤖</em>
+</p>
+
+---
+
+## 🤖 AI-Powered Development
+
+> I actively integrate **Claude AI (Anthropic)** into my development workflow and build production systems that leverage large language models.
+
+- 🧠 Built **MCP Servers** (Model Context Protocol) for AI tool integrations
+- 💬 Developed **AI chatbot** training interfaces and voice AI assistants
+- 🔧 Use **Claude Code** as my primary AI coding assistant
+- 🎙️ Built **Voice AI** systems with real-time speech processing
+- 📡 Integrating **LLM APIs** into real-world production applications
 
 ---
 
@@ -30,6 +46,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**AI & Integrations**
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-black?style=for-the-badge&logo=anthropic&logoColor=white)
+
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,26 +64,23 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 RTM — Real-Time Medical Platform
-> Full-stack telemedicine system with live video, real-time chat, and appointment management.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏥 **RTM — Real-Time Medical** | Telemedicine platform with live video, real-time chat & appointments | Django 5, Channels, LiveKit, Docker |
+| 🤖 **MCP Server** | Model Context Protocol server for AI tool integrations | Python, Claude AI |
+| 🎙️ **Voice AI Assistant** | Real-time voice AI with speech processing | Python, WebSockets, LLM |
+| 🌐 **BBC Scraper** | FastAPI-based web scraper for news content | FastAPI, Selenium |
+| 💬 **Chatbot Trainer** | AI chatbot training and evaluation interface | JavaScript, LLM APIs |
+| 🔄 **ETL Pipeline** | Data extraction, transformation & loading pipeline | Python, PostgreSQL |
+
+### 🏥 RTM — Real-Time Medical Platform (Highlight)
+> Production-grade telemedicine system built with cutting-edge real-time tech.
 
 - **Django 5** + **Django Channels** + **WebSockets** for real-time messaging
-- **LiveKit** integration for video consultations
+- **LiveKit** integration for HD video consultations
 - **JWT** authentication with role-based access (Therapist / Patient)
 - Fully **Dockerized** with Daphne ASGI server + PostgreSQL
 - REST API with Swagger/OpenAPI documentation
-
-### 🤖 MCP Server
-> Model Context Protocol server built in Python for AI tool integrations.
-
-### 🌐 BBC Scraper
-> FastAPI-based web scraper for extracting and serving BBC news content.
-
-### 💬 Chatbot Trainer
-> AI chatbot training interface built with JavaScript.
-
-### 🔄 ETL Pipeline
-> Data extraction, transformation, and loading pipeline built in Python.
 
 ---
 
@@ -80,13 +100,17 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/muhammad-moin5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Muhammad-Moin">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/HexCOD">
-    <img src="https://img.shields.io/badge/HexCOD-Organisation-brightgreen?style=for-the-badge" />
-  </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
