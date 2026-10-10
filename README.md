@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About me
 
-- 🏢 Senior Software Engineer at **HexCOD**, building backend and full-stack systems for clients, and the builder of **Articos**, **KineTrue** and **Parlumo English**.
+- 🏢 Senior Software Engineer at **Disrupt**, building backend and full-stack systems for clients, and the builder of **Articos**, **KineTrue** and **Parlumo English**.
 - ⚡ I work mostly on **real-time systems** (WebSockets, Django Channels, LiveKit), **REST APIs**, and **React front ends**.
 - 🤖 I ship **LLM-powered features** in production: MCP servers, voice assistants, and chat interfaces built on Claude and OpenAI.
 - 🔧 **Claude Code** is my daily coding assistant, with a spec-driven workflow (spec, plan, tasks, implement, verify) before any feature lands.
