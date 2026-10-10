@@ -33,9 +33,9 @@
 
 ### 🚧 What I'm working on now
 
-- **[Articos](https://articos.com)**: an AI user research platform that runs synthetic user interviews and returns a full research report in under 30 minutes, so product teams and agencies can test an idea without waiting on recruiting. I work on the product website and user-facing experience. Next.js 14, Tailwind CSS, PostHog, SendGrid, Vercel.
-- **[KineTrue](https://www.kinetrue.com)**: a remote therapeutic monitoring (RTM) platform for physical therapy clinics. Patients do camera-guided exercise sessions at home on the schedule their therapist set, and the clinic gets adherence and progress data it can act on and bill RTM codes against. I work across the product: patient and clinic experience, data pipelines, and the public site. Python, Django, React, TypeScript, AWS.
-- **Parlumo English**: a mostly free English-learning platform with IELTS-style computer practice, speaking confidence, writing, job interview prep, a kids mode for ages 6 to 12, free public-domain books and stories, and daily missions with server-graded lessons and saved progress. React + Vite front end, Python FastAPI backend, Claude Code content pipelines for books, stories and IELTS sets.
+- **[Articos](https://articos.com)**: an AI user research platform. You set a research goal, an audience of AI users shows up and is interviewed, and you get a full user research report you can act on in under 30 minutes. Built for product teams and agencies that need answers before the next decision, not after weeks of recruiting.
+- **[KineTrue](https://www.kinetrue.com)**: remote therapeutic monitoring for physical therapy clinics. Patients do camera-guided exercise sessions at home on the schedule their therapist set, and the clinic sees who is doing their exercises, how they are progressing, and has the data it needs for RTM billing. KineTrue supports the therapist, it never replaces them.
+- **Parlumo English**: a mostly free English-learning platform. Learners practise for IELTS on a computer the way the real exam works, build speaking confidence, improve their writing, and prepare for job interviews. It also includes a kids mode for ages 6 to 12, free public-domain books and stories, and daily missions that keep learning going.
 - **MCP servers**: tool servers for Claude with JWT and Google OAuth authentication, built on FastMCP.
 - **Voice AI**: low-latency speech-to-text and voice agents using LiveKit and WebSockets.
 
@@ -66,11 +66,11 @@
 
 ### 🏥 Professional work (private repositories)
 
-- **Articos**: AI user research platform with synthetic user interviews and on-demand reports. Product website and user-facing experience. Next.js, Tailwind CSS, Firebase, Vercel.
+- **Articos**: AI user research platform that interviews synthetic users and returns an actionable research report in under 30 minutes.
 - **RTM, real-time medical platform**: telemedicine with live video, chat and appointment scheduling. Django 5, Channels, LiveKit, Docker.
 - **Voice AI assistant**: real-time voice agent with streaming speech processing. Python, WebSockets, LLM APIs.
-- **Parlumo English**: English-learning platform with accounts, a course library, server-graded lessons, learning plans, kids mode, and content administration. React, Vite, FastAPI, Python, GitHub Actions.
-- **KineTrue**: camera-guided home exercise and RTM platform for PT clinics. Patient app, clinic dashboard, RTM data and billing support, plus an SEO-first public site. Django, React, TypeScript, AWS.
+- **Parlumo English**: English-learning platform for IELTS practice, speaking, writing, job interviews and a kids mode, with free books and stories.
+- **KineTrue**: remote therapeutic monitoring platform where patients do camera-guided exercises at home and clinics track adherence and progress.
 
 ---
 
