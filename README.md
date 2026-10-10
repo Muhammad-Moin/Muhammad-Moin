@@ -1,94 +1,88 @@
 <h1 align="center">Hi, I'm Muhammad Moin 👋</h1>
-<h3 align="center">Senior Software Engineer · Karachi, Pakistan</h3>
+<h3 align="center">Senior Software Engineer · Python, Django, FastAPI, React · Karachi, Pakistan</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-moin5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/Muhammad-Moin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Muhammad-Moin?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://www.kinetrue.com">
+    <img src="https://img.shields.io/badge/Currently_building-KineTrue-0E7C86?style=for-the-badge" alt="KineTrue" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Moin&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Moin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About me
 
-- 🏢 Senior Software Engineer at **HexCOD**
-- 🌍 Based in **Karachi, Pakistan**
-- 🤖 I build with **Claude AI** — MCP Servers, Voice AI, Chatbots
-- 🔧 I use **Claude Code** as my primary AI coding assistant
-- 💬 Specializing in **real-time systems**, **REST APIs**, and **full-stack web apps**
-
----
-
-### 🤖 AI-Powered Development
-
-> I actively integrate **Claude AI (Anthropic)** into my development workflow and build production systems with LLMs.
-
-```bash
-$ i use claude code
-```
-
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server-black?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logoColor=white)
+- 🏢 Senior Software Engineer at **HexCOD**, building backend and full-stack systems for clients.
+- ⚡ I work mostly on **real-time systems** (WebSockets, Django Channels, LiveKit), **REST APIs**, and **React front ends**.
+- 🤖 I ship **LLM-powered features** in production: MCP servers, voice assistants, and chat interfaces built on Claude and OpenAI.
+- 🔧 **Claude Code** is my daily coding assistant, with a spec-driven workflow (spec, plan, tasks, implement, verify) before any feature lands.
+- 💼 Open to senior backend and full-stack roles, remote or on-site in Karachi.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚧 What I'm working on now
 
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- **[KineTrue](https://www.kinetrue.com)**: marketing site and blog for a remote therapeutic monitoring product. Vite + React + TypeScript, every route prerendered to static HTML with structured data, deployed on AWS Amplify.
+- **MCP servers**: tool servers for Claude with JWT and Google OAuth authentication, built on FastMCP.
+- **Voice AI**: low-latency speech-to-text and voice agents using LiveKit and WebSockets.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Tech stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏥 **RTM — Real-Time Medical** | Telemedicine with live video, chat & appointments | Django 5, Channels, LiveKit, Docker |
-| 🤖 **MCP Server** | Model Context Protocol server for AI tool integrations | Python, Claude AI |
-| 🎙️ **Voice AI Assistant** | Real-time voice AI with speech processing | Python, WebSockets, LLM |
-| 🌐 **BBC Scraper** | FastAPI-based news content scraper | FastAPI, Selenium |
-| 💬 **Chatbot Trainer** | AI chatbot training and evaluation interface | JavaScript, LLM APIs |
-| 🔄 **ETL Pipeline** | Data extraction, transformation & loading | Python, PostgreSQL |
+| Area | Tools |
+|------|-------|
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **AI / LLM** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-black?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured repositories
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| 🤖 [**MCP_SERVER**](https://github.com/Muhammad-Moin/MCP_SERVER) | Model Context Protocol server with no-auth, JWT, and Google OAuth modes | Python, FastMCP |
+| 🔄 [**etl_mid**](https://github.com/Muhammad-Moin/etl_mid) | ETL pipeline pulling from CSV, JSON, Google Sheets, MongoDB Atlas and a REST API, scheduled daily with CI via GitHub Actions | Python, MongoDB |
+| 🌐 [**BBC-Scrapper**](https://github.com/Muhammad-Moin/BBC-Scrapper) | FastAPI service that scrapes and serves BBC news content | FastAPI, Selenium |
+| 💬 [**chatbot-trai**](https://github.com/Muhammad-Moin/chatbot-trai) | Interface for training and evaluating an AI chatbot | JavaScript, LLM APIs |
+| 🕷️ [**Selenium-Scrappers**](https://github.com/Muhammad-Moin/Selenium-Scrappers) | Collection of Python Selenium web scrapers | Python, Selenium |
+| 🐍 [**Django-Basic-Advance**](https://github.com/Muhammad-Moin/Django-Basic-Advance) | Django REST API examples from basics to advanced patterns | Django, DRF |
+
+### 🏥 Professional work (private repositories)
+
+- **RTM, real-time medical platform**: telemedicine with live video, chat and appointment scheduling. Django 5, Channels, LiveKit, Docker.
+- **Voice AI assistant**: real-time voice agent with streaming speech processing. Python, WebSockets, LLM APIs.
+- **KineTrue**: SEO-first marketing site with prerendered routes, sitemap and structured-data generation. Vite, React, TypeScript, AWS Amplify.
+
+---
+
+### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Moin&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Moin&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html" width="48%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Moin&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Moin&theme=tokyonight&hide_border=true" width="60%" alt="Contribution streak" />
 </p>
 
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-moin5/">Let's connect on LinkedIn</a>
+</p>
