@@ -67,8 +67,8 @@
 ### 🏥 Professional work (private repositories)
 
 - **Articos**: AI user research platform that interviews synthetic users and returns an actionable research report in under 30 minutes.
-- **RTM, real-time medical platform**: telemedicine with live video, chat and appointment scheduling. Django 5, Channels, LiveKit, Docker.
-- **Voice AI assistant**: real-time voice agent with streaming speech processing. Python, WebSockets, LLM APIs.
+- **RTM, real-time medical platform**: telemedicine where patients and doctors meet over live video, chat in real time and book appointments in one place.
+- **Voice AI assistant**: a voice agent you talk to naturally, which listens, understands and answers in real time without waiting for a full recording.
 - **Parlumo English**: English-learning platform for IELTS practice, speaking, writing, job interviews and a kids mode, with free books and stories.
 - **KineTrue**: remote therapeutic monitoring platform where patients do camera-guided exercises at home and clinics track adherence and progress.
 
