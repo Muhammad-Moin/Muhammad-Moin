@@ -33,7 +33,7 @@
 
 ### 🚧 What I'm working on now
 
-- **[KineTrue](https://www.kinetrue.com)**: marketing site and blog for a remote therapeutic monitoring product. Vite + React + TypeScript, every route prerendered to static HTML with structured data, deployed on AWS Amplify.
+- **[KineTrue](https://www.kinetrue.com)**: a remote therapeutic monitoring (RTM) platform for physical therapy clinics. Patients do camera-guided exercise sessions at home on the schedule their therapist set, and the clinic gets adherence and progress data it can act on and bill RTM codes against. I work across the product: patient and clinic experience, data pipelines, and the public site. Python, Django, React, TypeScript, AWS.
 - **MCP servers**: tool servers for Claude with JWT and Google OAuth authentication, built on FastMCP.
 - **Voice AI**: low-latency speech-to-text and voice agents using LiveKit and WebSockets.
 
@@ -66,7 +66,7 @@
 
 - **RTM, real-time medical platform**: telemedicine with live video, chat and appointment scheduling. Django 5, Channels, LiveKit, Docker.
 - **Voice AI assistant**: real-time voice agent with streaming speech processing. Python, WebSockets, LLM APIs.
-- **KineTrue**: SEO-first marketing site with prerendered routes, sitemap and structured-data generation. Vite, React, TypeScript, AWS Amplify.
+- **KineTrue**: camera-guided home exercise and RTM platform for PT clinics. Patient app, clinic dashboard, RTM data and billing support, plus an SEO-first public site. Django, React, TypeScript, AWS.
 
 ---
 
